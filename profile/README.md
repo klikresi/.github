@@ -40,10 +40,6 @@ Ninja Xpress · SAP Express · ID Express · Shopee Express · Lazada Logistics
 
 - [n8n-nodes-klikresi](https://github.com/klikresi/n8n-nodes-klikresi) — Node n8n untuk Klik Resi
 
-## Komunitas
-
-- [DAFTAR-API-LOKAL-INDONESIA](https://github.com/klikresi/DAFTAR-API-LOKAL-INDONESIA) — Daftar API buatan developer Indonesia
-
 ## Mulai Sekarang
 
 1. Daftar akun di [klikresi.com/sign-up](https://klikresi.com/sign-up)
